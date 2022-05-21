@@ -1,6 +1,6 @@
 # Medication-Reminder-App
 
-- Developed by Oracle APEX 21.2
+- Developed by using Oracle APEX 21.2
 
 - Coding at Maynooth University
 
